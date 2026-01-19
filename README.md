@@ -24,8 +24,5 @@ and visually appealing way.
 ## 🌍 Live Site
 www.epochousepro.com
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 📌 Status
 Completed
